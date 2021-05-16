@@ -1,1 +1,1 @@
-# AkilliCihaz
+Proje Ödevi
