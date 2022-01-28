@@ -113,7 +113,7 @@ Proje Pdf : [AkilliCihazProje.pdf](https://github.com/rabiaabdioglu/AkilliCihaz/
   > Kulllanici sınıfı ile getKullanici fonksiyonu yaratılır ve Kullanici nesnesi geri döndürülür. AgArayuzu sınıfında kullanici yazdırılır. 
   > 
   
-    ![Resim12](https://user-images.githubusercontent.com/75799790/151573542-a4e5155c-3dcd-44cb-8666-640b7cc7b572.jpg)
+   ![Resim12](https://user-images.githubusercontent.com/75799790/151573542-a4e5155c-3dcd-44cb-8666-640b7cc7b572.jpg)
 
  
    - Observer: 
@@ -127,12 +127,13 @@ Proje Pdf : [AkilliCihazProje.pdf](https://github.com/rabiaabdioglu/AkilliCihaz/
   > AnlikSicaklikOlc fonksiyonu çalışır. Bu fonksiyonda her dakika random olarak sıcaklık değiştirir. 
   > 
   > SicaklikKontrol ile istenilen aralığın dışında bir sıcaklık varsa yetkili olan kullanıcılara mesaj iletilir.
-  > 
-    ![Resim13](https://user-images.githubusercontent.com/75799790/151573564-15baf4b0-2dc8-4172-826a-c9bc43f015e6.jpg)
+  
+   ![Resim13](https://user-images.githubusercontent.com/75799790/151573564-15baf4b0-2dc8-4172-826a-c9bc43f015e6.jpg)
     
   > Haber verilmesi gereken  yetkililer (gözlemciler) veritabanından bulunur ve Observer listesine atılır.  
   > 
   > Haber verilmesi gerektiğinde Observer listesindeki kişilere mesaj yollanır. Observable sınıfındaki haberVer metodu çağrılır. 
+   
    ![Resim20](https://user-images.githubusercontent.com/75799790/151575068-128c2874-ac37-4cef-96a7-6b7f7e8b7b80.png)
 
 
