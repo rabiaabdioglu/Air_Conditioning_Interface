@@ -138,7 +138,7 @@ Proje Pdf : [AkilliCihazProje.pdf](https://github.com/rabiaabdioglu/AkilliCihaz/
   > 
   > Haber verilmesi gerektiğinde Observer listesindeki kişilere mesaj yollanır. Observable sınıfındaki haberVer metodu çağrılır. 
 
-![Resim14](https://user-images.githubusercontent.com/75799790/151573616-3ceb555e-8987-4529-a371-d4f5bae8d6d8.png)
+![Resim20](https://user-images.githubusercontent.com/75799790/151575068-128c2874-ac37-4cef-96a7-6b7f7e8b7b80.png)
 
 
  - İnterface: 
