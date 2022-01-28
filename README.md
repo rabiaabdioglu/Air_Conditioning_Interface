@@ -140,9 +140,10 @@ Proje Pdf : [AkilliCihazProje.pdf](https://github.com/rabiaabdioglu/AkilliCihaz/
  - İnterface: 
 
     ![Resim15](https://user-images.githubusercontent.com/75799790/151573624-4355579c-d891-439d-8441-b0f66a544eba.jpg)
- 
+    
 > Ekran Görüntüsü :
-    ![Resim16](https://user-images.githubusercontent.com/75799790/151573630-b1836291-13e3-4849-9aed-7ad43f0fd3aa.jpg)
+
+  ![Resim16](https://user-images.githubusercontent.com/75799790/151573630-b1836291-13e3-4849-9aed-7ad43f0fd3aa.jpg)
 
 
    
