@@ -1,6 +1,7 @@
-Proje Ödevi
+Proje Pdf : [AkilliCihazProje.pdf](https://github.com/rabiaabdioglu/AkilliCihaz/files/7259387/AkilliCihazProje.pdf)
 
-[AkilliCihazProje.pdf](https://github.com/rabiaabdioglu/AkilliCihaz/files/7259387/AkilliCihazProje.pdf)
+
+
 
 1. Kullanıcı girişi ve doğrulaması: 
     > Kullanıcı girişi için Postgresql kullanıldı.  
